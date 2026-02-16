@@ -1,0 +1,5 @@
+RUN CMD: go run main.go
+
+Build CMD: go build main.go
+
+Build CMD with output name: go build -o myapp main.go
